@@ -1,9 +1,10 @@
 # Meu Projeto
 
-Esse é o meu primeiro repositório no GitHub 🚀
+Olá! Bem vindo ao meu primeiro projeto! 🚀
+Esse projeto é uma ferramenta de cadastro, validação e controle de vendas em uma concessionária de carros.
 
 ## Sobre
-Aqui vou escrever uma descrição rápida do que esse projeto faz.
+Uma ferramenta simples e poderosa onde, atrávés de formulários é feito o cadastro dos dados de um cliente em uma compra.
 
 ## Como usar
 1. Clone o repositório:
